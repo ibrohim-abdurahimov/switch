@@ -387,3 +387,26 @@
     //     }
     
 }
+
+{
+    // console.log("Masala-10")
+    // s = "shimol"
+    // j = "janub"
+    // q = "sharq"
+    // g = "g'arb"
+    // let yonalish = g
+    // let kamanda = 2
+    // switch(kamanda){
+    //     case 0:
+    //         console.log(`${yonalish}dan harakatni davom ettir`)
+    //         break
+    //     case 1:
+    //         console.log(`${yonalish}dan chapga buril`)
+    //         break
+    //     case 2:
+    //         console.log(`${yonalish}dan o'nga buril`)
+    //         break
+    //         default:
+    //             console.log("Xato")
+    // }
+}
