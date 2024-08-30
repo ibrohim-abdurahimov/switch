@@ -185,16 +185,205 @@
 
 {
     // console.log("Masala-8")
-    // let day = 30
-    // let month = 2
+    // let day = 5
+    // let month = 1
     // switch(month){
-    //     case 2 :
-    //         console.log(`month ${month} day ${day}`)
+    //     case 1 :
+    //         if(day<=31){
+    //             month = "January"
+    //             console.log(month , day)
+    //         }else{console.log("xato sana")}
     //         break
-    // }
+    //     case 2 :
+    //         if(day<=29){
+    //             month = "February"
+    //             console.log(month , day)
+    //         }else{console.log("xato sana")}
+    //         break
+    //     case 3 :
+    //         if(day<=31){
+    //             month = "March"
+    //             console.log(month , day)
+    //         }else{console.log("xato sana")}
+    //         break
+    //     case 4 :
+    //         if(day<=30){
+    //             month = "April"
+    //             console.log(month , day)
+    //         }else{console.log("xato sana")}
+    //         break
+    //     case 5 :
+    //             if(day<=31){
+    //                 month = "May"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 6 :
+    //             if(day<=30){
+    //                 month = "Jane"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 7 :
+    //             if(day<=31){
+    //                 month = "July"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 8 :
+    //             if(day<=31){
+    //                 month = "August"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 9 :
+    //             if(day<=30){
+    //                 month = "September"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 10 :
+    //             if(day<=31){
+    //                 month = "October"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 11 :
+    //             if(day<=30){
+    //                 month = "November"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //     case 12 :
+    //             if(day<=31){
+    //                 month = "December"
+    //                 console.log(month , day)
+    //             }else{console.log("xato sana")}
+    //             break
+    //             default:
+    //                 console.log("Xato")
+                
+
+    //     }
 
 }
 {
-    console.log("Masala-9")
+    // console.log("Masala-9")
+    // let day = 29
+    // let month = 11  
+    // switch(month){
+    //     case 1 :
+    //         if(day>=31){
+    //             day=1
+    //             month = "February"
+    //             console.log(month , day)
+    //         }else{
+    //             month="January"
+    //             console.log( month , day +1)}
+    //         break
+    //     case 2 :
+    //         if(day>=29){
+    //             day=1
+    //             month = "March"
+    //             console.log(month , day )
+    //         }else{
+    //             month= "February"
+    //             console.log(month ,day+1)}
+    //         break
+    //     case 3 :
+    //         if(day>=31){
+    //             day=1
+    //             month = "April"
+    //             console.log(month , day)
+    //         }else{
+    //             month="March"
+    //             console.log(month , day+1)}
+    //         break
+    //     case 4 :
+    //         if(day>=30){
+    //             day=1
+    //             month = "May"
+    //             console.log(month , day)
+    //         }else{
+    //             month="April"
+    //             console.log(month , day+1)}
+    //         break
+    //     case 5 :
+    //             if(day>=31){
+    //                 day=1
+    //                 month = "Jane"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="May"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 6 :
+    //             if(day>=30){
+    //                 day=1
+    //                 month = "July"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="Jane"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 7 :
+    //             if(day>=31){
+    //                 day=1
+    //                 month = "August"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="July"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 8 :
+    //             if(day>=31){
+    //                 day=1
+    //                 month = "September"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="August"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 9 :
+    //             if(day>=30){
+    //                 day=1
+    //                 month = "October"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="September"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 10 :
+    //             if(day>=31){
+    //                 day=1
+    //                 month = "November"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="October"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 11 :
+    //             if(day>=30){
+    //                 day=1
+    //                 month = "December"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month="November"
+    //                 console.log(month , day+1)}
+    //             break
+    //     case 12 :
+    //             if(day>=31){
+    //                 day=1
+    //                 month = "January"
+    //                 console.log(month , day)
+    //             }else{
+    //                 month = "December"
+    //                 console.log(month , day+1)}
+    //             break
+    //             default:
+    //                 console.log("Xato")
+                
+
+    //     }
     
 }
